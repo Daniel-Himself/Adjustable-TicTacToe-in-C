@@ -1,4 +1,4 @@
-# Adjustable-TicTacToe-in-C
+# Adjustable TicTacToe Game Written in C
 My submition for a homework project in my 1st semester Programming 101 at the Department of Information Systems at the University of Haifa.
 
 **My code has been graded 100/100.**
