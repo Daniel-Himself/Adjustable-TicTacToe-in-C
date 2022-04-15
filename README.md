@@ -1,5 +1,5 @@
 # Adjustable TicTacToe Game Written in C
-A project I made during the intruductory course to programming in C at the Department of Information Systems at the University of Haifa.
+A project I made during the intruductory course to programming in C.
 
 ## My code has been graded 100/100.
 
