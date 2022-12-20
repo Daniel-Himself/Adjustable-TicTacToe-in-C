@@ -5,4 +5,4 @@ A project I made during the intruductory course to programming in C.
 
 It demonstrates usage of dynamic memory allocation and two-dimentional arrays in the C programming language. 
 
-The code itself is within the .c file, with a precompiled executable also available alongside. Hebrew instructions included in the pdf document.
+The code itself is within the .c file, with a compiled executable also available alongside. Hebrew instructions included in the pdf document.
